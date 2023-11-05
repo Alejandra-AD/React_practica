@@ -1,7 +1,0 @@
-## Proyecto REACT
-- 
--
--
--
--
--
